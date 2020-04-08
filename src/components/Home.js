@@ -2,6 +2,16 @@ import React, { Fragment } from 'react';
 import FakeText from './FakeText';
 import { Header, Image } from 'semantic-ui-react';
 
+/* Instructions
+  1. Replace image with an image of yourself
+  2. Create a page with a gallery from Semantic UI (react.semantic-ui.com)
+  3. Create a Git Repository of your own
+  4. Upload this to that repository and slack Jace the link
+
+
+  https://react.semantic-ui.com/views/card/
+
+*/
 // Home Page
 const Home = () => (
   <Fragment>
